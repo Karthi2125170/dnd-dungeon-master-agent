@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+temp_video/
+convert_gif.py
+convert_gif_fast.py
+record_demo.py
+*.log
